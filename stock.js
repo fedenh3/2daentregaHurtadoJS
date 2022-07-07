@@ -1,5 +1,5 @@
 let stockProductos = [
-    {id: 1, nombre: "Cuadro 1", tipo: "cuadro", cantidad: 1, desc: "Un palacio diferente", precio: 1200, tamaño: "grande", img: './img/palacio.jpg'},
+    {id: 1, nombre: "Cuadro 1", tipo: "cuadro", cantidad: 1, desc: "Un palacio diferente", precio: 1200, tamaño: "2x3", img: './img/palacio.jpg'},
     {id: 2, nombre: "Cuadro 2", tipo: "cuadro", cantidad: 1, desc: "Un palacio diferente", precio: 1100, tamaño: "2x3", img: './img/palacio.jpg'},
     {id: 3, nombre: "Cuadro 3", tipo: "cuadro", cantidad: 1, desc: "Un palacio diferente", precio: 1200, tamaño: "4x3", img: './img/palacio.jpg'},
     {id: 4, nombre: "Cuadro 4", tipo: "cuadro", cantidad: 1, desc: "Un palacio diferente", precio: 1400, tamaño: "4x3", img: './img/palacio.jpg'},
